@@ -1,4 +1,4 @@
-##Instalando seu ambiente para desenvolvimento em SQL
+**Instalando seu ambiente para desenvolvimento em SQL**
 
 Olá! Provavelmente você está aqui após a aula dois. Caso não, retorne, leia, aprenda e volte aqui :)
 
