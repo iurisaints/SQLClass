@@ -20,11 +20,6 @@ mysqld.exe --console
 ```
 Caso queira criar um arquivo para startar seu banco, crie um .bat com o comando mysqld.exe --console e envie como atalho para a área de trabalho.
 
-Agora instale o HeidiSQL pelo link: https://www.heidisql.com/download.php?download=installer
-
-A instalação é bem intuitiva.
-Não esqueça de deixar o terminal com o servidor aberto.
-
 Para iniciar use as credenciais:
 
 Tipo de rede: MariaDB ou MySQL;
