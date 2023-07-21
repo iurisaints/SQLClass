@@ -1,6 +1,8 @@
 <h1>MySQL Cheat Sheet</h1>
 <h5>Para usar com o MariaDB:</h5>
+
 **Crie o arquivo cmd.bat dentro da pasta bin do MariaDB com o seguinte comando:**
+
 ```
 mysql -u root
 ```
