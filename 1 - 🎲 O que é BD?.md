@@ -1,6 +1,7 @@
 <h1> AULA 1! </h1>
 
 **O que é um banco de dados?**
+
 Um banco de dados é um conjunto organizado de informações estruturadas, armazenadas eletronicamente, que podem ser acessadas, manipuladas e gerenciadas de forma eficiente. Ele permite a persistência e o compartilhamento de dados entre usuários e aplicativos.
 
 **O que motivou a criação dos bancos de dados?**
