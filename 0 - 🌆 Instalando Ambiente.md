@@ -1,7 +1,5 @@
 **Instalando seu ambiente para desenvolvimento em SQL**
 
-Olá! Provavelmente você está aqui após a aula dois. Caso não, retorne, leia, aprenda e volte aqui :)
-
 Bom, dado o primeiro recado, vamos utilizar o servidor da MariaDB e iremos utilizar a inteface do HeidiSQL.
 Passo 1:
 [Download HeidiSQL Portable](https://www.heidisql.com/download.php?download=portable-64)
