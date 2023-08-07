@@ -1,13 +1,4 @@
-<header class="entry-header">
-		<h1 class="single-title">Entendendo EXCEPT, INTERSECT e UNION do SQL</h1>
-				<div class="meta-post">
-			<span class="posted-on date"><a href="https://www.sqlfromhell.com/entendendo-except-intersect-e-union-do-sql/" rel="bookmark"><time class="entry-date published" datetime="2018-06-16T16:40:20+00:00">junho 16, 2018</time><time class="updated" datetime="2018-06-16T16:41:56+00:00">junho 16, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://www.sqlfromhell.com/author/sqlfromhell/">Paulo</a></span></span><span class="categories"> <a href="https://www.sqlfromhell.com/category/tips/" rel="category tag">Tips</a></span>		</div>
-				
-	</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p>Olá pessoas!</p>
-<p>Não é de hoje que vejo o pessoal que está iniciando com SQL tendo problemas como EXCEPT, INTERSECT e UNION, ou não sabendo que eles existem. Desta forma, vamos à explicação!</p>
+<h1> O que é UNION etc?</h1>
 <p>A principal ideia destas cláusulas é &#8216;somar&#8217; e &#8216;subtrair&#8217; os registros de duas ou mais consultas.</p>
 <h3>UNION ALL e UNION</h3>
 <p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-220" src="https://www.sqlfromhell.com/wp-content/uploads/2018/06/union.png" alt="" width="180" height="131" /></p>
