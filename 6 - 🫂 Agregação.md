@@ -65,4 +65,22 @@ Por exemplo, para encontrar o preço máximo de um medicamento na tabela "medica
 SELECT MAX(preco) FROM medicamentos;
 ```
 
-Essas são apenas algumas das principais funções de agregação disponíveis no MySQL. Além dessas, existem outras funções como SUM(), AVG(), MIN() e MAX() que podem ser utilizadas para realizar cálculos e obter informações resumidas sobre os dados armazenados no banco de dados.
+<h3> Agregação Cheatsheet</h3>
+```sql
+SELECT COUNT(coluna) FROM tabela WHERE condição;
+-- CONTA QUANTAS COLUNAS QUE EXISTEM NA TABELA COM A CONDIÇÃO --
+
+SELECT SUM(coluna) FROM tabela WHERE condição;
+-- SOMA TODAS AS COLUNAS QUE EXISTEM NA TABELA COM A CONDIÇÃO --
+
+SELECT AVG(coluna) FROM tabela WHERE condição;
+-- FAZ A MÉDIA DE TODAS AS COLUNAS QUE EXISTEM NA TABELA COM A CONDIÇÃO --
+
+SELECT MIN(coluna) FROM tabela WHERE condição;
+-- MOSTRA O VALOR MÍNIMO EM RELAÇÃO A TODAS AS COLUNAS --
+-- QUE EXISTEM NA TABELA COM A CONDIÇÃO --
+
+SELECT MAX(coluna) FROM tabela WHERE condição;
+-- MOSTRA O VALOR MÁXIMO EM RELAÇÃO A TODAS AS COLUNAS --
+-- QUE EXISTEM NA TABELA COM A CONDIÇÃO --
+```
