@@ -66,6 +66,7 @@ SELECT MAX(preco) FROM medicamentos;
 ```
 
 <h3> Agregação Cheatsheet</h3>
+
 ```sql
 SELECT COUNT(coluna) FROM tabela WHERE condição;
 -- CONTA QUANTAS COLUNAS QUE EXISTEM NA TABELA COM A CONDIÇÃO --
