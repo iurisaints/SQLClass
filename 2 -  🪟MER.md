@@ -3,6 +3,8 @@ Para modelagens vamos usar essa notação:
 
 Modelagem Entidade-Relacionamento na Notação de Peter Chen
 
+<img src="https://cadernodeprovacombr.cdnstatic8.com/wp-content/uploads/2020/12/Modelo-Entidade-Relacionamento-MER.png" alt="MER">
+
 A modelagem Entidade-Relacionamento (ER) é uma técnica usada para representar visualmente as relações entre as entidades em um sistema ou domínio específico. A notação de Peter Chen é uma das notações mais comuns usadas para realizar a modelagem ER. Neste texto, vamos explicar os principais elementos dessa notação e como criar um diagrama ER usando essa abordagem.
 
 Identifique as entidades:
