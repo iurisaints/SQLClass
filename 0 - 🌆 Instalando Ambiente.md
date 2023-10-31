@@ -1,6 +1,6 @@
 **Instalando seu ambiente para desenvolvimento em SQL**
 
-Bom, dado o primeiro recado, vamos utilizar o servidor da MariaDB e iremos utilizar a inteface do HeidiSQL.
+Vamos utilizar o servidor da MariaDB e iremos utilizar a inteface do HeidiSQL.
 Passo 1:
 [Download HeidiSQL Portable](https://www.heidisql.com/download.php?download=portable-64)
 E utilize a opção **Portable version (zipped): 32 bit ≃ 64 bit ≃** e clique na opção 64bits
