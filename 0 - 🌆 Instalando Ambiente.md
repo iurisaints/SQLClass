@@ -16,15 +16,21 @@ Após isso:
 ```
 mysqld.exe --console
 ```
-Caso queira criar um arquivo para startar seu banco, crie um .bat com o comando mysqld.exe --console e envie como atalho para a área de trabalho.
+(Irei fazer com todos em sala de aula a partir daqui: )
+Caso queira criar um arquivo para startar seu banco, crie um .bat com o comando mysqld.exe --console e envie como atalho para a área de trabalho. 
 
 Para iniciar use as credenciais:
 
 Tipo de rede: MariaDB ou MySQL;
+
 Biblioteca: libmysql.dll
+
 Servidor/IP: 127.0.0.1
+
 Usuário: root
+
 Senha: 
+
 Porta: 3306
 
 Renomeie seu banco como quiser e inicie seu desenvolvimento 😄
