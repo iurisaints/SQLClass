@@ -21,9 +21,6 @@ Em um banco de dados relacional, os dados são organizados em tabelas, compostas
 
 Em um banco de dados orientado a objetos, os dados são organizados como objetos, que podem conter atributos e métodos. Os objetos são agrupados em classes, que representam tipos de objetos. A linguagem de consulta usada em bancos de dados orientados a objetos pode ser uma extensão da SQL ou uma linguagem específica para objetos. Esses bancos de dados são mais adequados para modelar dados complexos e estruturas hierárquicas.
 
-**Quais foram os bancos de dados que vimos até agora na aula?**
-Como sou um modelo de linguagem de IA, não tenho conhecimento específico sobre as aulas que você teve. No entanto, alguns exemplos comuns de sistemas de gerenciamento de banco de dados (SGBD) amplamente utilizados incluem Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, entre outros.
-
 **Quais são os principais componentes do banco de dados?**
 Os principais componentes de um banco de dados são:
 
