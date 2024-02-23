@@ -33,4 +33,15 @@ Senha:
 
 Porta: 3306
 
+Caso o seu banco tenha dado problema com a porta, você pode modificar o arquivo da pasta Data > my.ini para:
+```
+[mysqld]
+port=5000
+datadir=C:/Users/Administrador/Downloads/mariadb-11.3.2-winx64/data
+[client]
+port=5000
+plugin-dir=C:\Users\Administrador\Downloads\mariadb-11.3.2-winx64/lib/plugin
+
+```
+
 Renomeie seu banco como quiser e inicie seu desenvolvimento 😄
